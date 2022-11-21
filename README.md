@@ -1,4 +1,4 @@
-# MachineLearningandMarsquakes
+# Machine Learning and Marsquakes
 Marsquake catalogue SNRs and new event detections
 
 This is a repository for supplementary data for "Machine learning and marsquakes: a tool to predict atmospheric-seismic noise for the NASA InSight mission" Stott et al., Geophysical Journal International (GJI-S-22-0282), 2022. InSight contribution number 264. 
